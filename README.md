@@ -10,6 +10,16 @@ An offline life and workout tracker built around editable TSV files and static H
 
 The goal is not to be a SaaS app. The goal is to keep personal tracking durable, inspectable, and easy to modify without a database, server, login flow, or vendor lock-in.
 
+## Screenshots
+
+![Dashboard overview](docs/screenshots/dashboard-overview.png)
+
+![Weight goal progress](docs/screenshots/weight-goal-progress.png)
+
+![Recovery and nutrition charts](docs/screenshots/recovery-nutrition.png)
+
+![Training consistency](docs/screenshots/training-consistency.png)
+
 ## Why It Exists
 
 Most personal trackers eventually become hard to customize. This one keeps the important data in plain text TSV files and uses HTML for readable dashboards and graphs.

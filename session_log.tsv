@@ -1,0 +1,7 @@
+﻿session_id	date	day	session_type	program_day_id	workout_day_or_focus	status	duration_min	intensity_RPE_0_10	location	session_summary	notes	linked_set_session_id
+S1	2026-04-??		Gym		Push (Hypertrophy Focus)	Completed				Legacy gym session migrated: 17 set rows across 6 exercises	Detailed notes retained in Set Log.	S1
+S2	2026-04-??		Gym		Pull (Hypertrophy Focus)	Completed				Legacy gym session migrated: 23 set rows across 7 exercises	Detailed notes retained in Set Log.	S2
+S3	2026-04-??		Gym		Push (Hypertrophy Focus)	Completed				Legacy gym session migrated: 16 set rows across 6 exercises	Detailed notes retained in Set Log.	S3
+S4	2026-04-??		Gym		Pull (Hypertrophy Focus)	Completed				Legacy gym session migrated: 19 set rows across 7 exercises	Detailed notes retained in Set Log.	S4
+S5	2026-04-??		Gym		Pull (Hypertrophy Focus)	Completed				Legacy gym session migrated: 22 set rows across 7 exercises	Detailed notes retained in Set Log.	S5
+S6	2026-05-18	Mon	Gym	PD-W01-PUSH-HYPERTROPHY	Push (Hypertrophy Focus)	Completed				Completed Push workout. Clean logged sets: bench press, machine shoulder press, high-cable lateral raise.	Warm-ups completed but not logged. Bottom-Half DB Flye completed but not loggable (mixed weights/forms/equipment). Overhead Cable Triceps Extension (Bar) completed but not loggable (mixed weights/forms). Cable Triceps Kickback completed but not loggable (mixed weights/forms). Roman Chair Leg Raise skipped.	S6

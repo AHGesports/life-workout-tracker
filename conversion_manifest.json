@@ -1,0 +1,24 @@
+{
+  "source": "/mnt/data/workout_and_health_tracker.xlsx",
+  "output_dir": "/mnt/data/workout_tracker_chatgpt_package",
+  "zip": "/mnt/data/workout_tracker_chatgpt_package.zip",
+  "files": {
+    "session_log.tsv": 1457,
+    "set_log.tsv": 11689,
+    "health_log.tsv": 15547,
+    "workout_plan.html": 178114,
+    "progress_dashboard.html": 110978,
+    "AGENTS.md": 12065
+  },
+  "counts": {
+    "program_exercise_rows": 252,
+    "session_rows": 6,
+    "set_rows": 103,
+    "health_rows": 366,
+    "warmup_rows_in_html": 28,
+    "settings_rows_in_html": 13,
+    "logged_daily_rows": 4,
+    "completed_gym_sessions": 6,
+    "completed_football_sessions": 0
+  }
+}

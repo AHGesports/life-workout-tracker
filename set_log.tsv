@@ -1,0 +1,104 @@
+﻿set_id	session_id	exercise_id	set_type	date	day_type	session_type	exercise	set_num	reps	weight_kg	RPE	notes
+S1-SET01	S1	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	1	8	10		
+S1-SET02	S1	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	2	8	10		
+S1-SET03	S1	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	3	8	10		
+S1-SET04	S1	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	1	10	10		
+S1-SET05	S1	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	2	10	10		
+S1-SET06	S1	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	3	12	10		Best guide vid: youtu.be/ou6s32mJgjU
+S1-SET07	S1	LEGACY-OVERHEAD-PRESS-BARBELL	drop_set	2026-04-??	Push	Gym	Overhead Press (Barbell)	1	6	8		Drop set - continued below
+S1-SET08	S1	LEGACY-OVERHEAD-PRESS-BARBELL	drop_set_continuation	2026-04-??	Push	Gym	Overhead Press (Barbell)	1b	6	6		Drop set continuation of set 1 (8kg -> 6kg)
+S1-SET09	S1	LEGACY-OVERHEAD-PRESS-BARBELL	working	2026-04-??	Push	Gym	Overhead Press (Barbell)	2	12	6		
+S1-SET10	S1	LEGACY-OVERHEAD-PRESS-BARBELL	working	2026-04-??	Push	Gym	Overhead Press (Barbell)	3	7	8		
+S1-SET11	S1	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	1	15	5		
+S1-SET12	S1	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	2	15	4		Dropped to 4kg for sets 2-3
+S1-SET13	S1	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	3	15	4		
+S1-SET14	S1	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	1	12	10		Wrist pain during sets
+S1-SET15	S1	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	2	12	10		Wrist pain during sets
+S1-SET16	S1	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	3	12	10		Wrist pain during sets
+S1-SET17	S1	EX-ROMAN-CHAIR-LEG-RAISE	skipped	2026-04-??	Push	Gym	Hanging Leg Raises					SKIPPED - football next day
+S2-SET01	S2	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	1	8	35		35kg assistance
+S2-SET02	S2	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	2	6	30		30kg assistance
+S2-SET03	S2	LEGACY-ASSISTED-PULL-UPS	drop_set	2026-04-??	Pull	Gym	Assisted Pull-ups	3	3	20		Drop set: started at 20kg assistance...
+S2-SET04	S2	LEGACY-ASSISTED-PULL-UPS	drop_set_continuation	2026-04-??	Pull	Gym	Assisted Pull-ups	3b	3	25		...added to 25kg assistance to finish set
+S2-SET05	S2	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	1	12	30		Close/neutral grip
+S2-SET06	S2	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	2	12	35		
+S2-SET07	S2	EX-NEUTRAL-GRIP-LAT-PULLDOWN	drop_set	2026-04-??	Pull	Gym	Lat Pulldown	3	8	40		Drop set: started 40kg...
+S2-SET08	S2	EX-NEUTRAL-GRIP-LAT-PULLDOWN	drop_set_continuation	2026-04-??	Pull	Gym	Lat Pulldown	3b	4	35		...dropped to 35kg to finish
+S2-SET09	S2	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	1	12	25		
+S2-SET10	S2	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	2	10	30		
+S2-SET11	S2	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	3	12	25		
+S2-SET12	S2	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	1	12	2.5		High pulley crossover
+S2-SET13	S2	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	2	12	5		
+S2-SET14	S2	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	3	12	5		
+S2-SET15	S2	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	1	12	5		5kg per side (total = 5kg plates + bar)
+S2-SET16	S2	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	2	10	5		
+S2-SET17	S2	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	3	8	5		
+S2-SET18	S2	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	1	12	7		Neutral grip
+S2-SET19	S2	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	2	10	8		
+S2-SET20	S2	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	3	8	8		
+S2-SET21	S2	LEGACY-ABS-CABLE-CRUNCHES	working	2026-04-??	Pull	Gym	Abs: Cable Crunches	1	15	27		Added after session wrap-up
+S2-SET22	S2	LEGACY-ABS-CABLE-CRUNCHES	working	2026-04-??	Pull	Gym	Abs: Cable Crunches	2	15	27		
+S2-SET23	S2	LEGACY-ABS-CABLE-CRUNCHES	working	2026-04-??	Pull	Gym	Abs: Cable Crunches	3	15	27		
+S3-SET01	S3	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	1	8	12.5		
+S3-SET02	S3	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	2	8	12.5		
+S3-SET03	S3	EX-BARBELL-BENCH-PRESS	working	2026-04-??	Push	Gym	Barbell Bench Press	3	5	15		PB weight - 6th rep needed spotter
+S3-SET04	S3	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	1	12	12		Weight increase from 10kg; maxed out first rep
+S3-SET05	S3	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	2	10	12		
+S3-SET06	S3	EX-45-DEG-INCLINE-DB-PRESS	working	2026-04-??	Push	Gym	Incline Dumbbell Press	3	8	12		
+S3-SET07	S3	LEGACY-OVERHEAD-PRESS-BARBELL	working	2026-04-??	Push	Gym	Overhead Press (Barbell)	1	12	0		Bar only (0kg plates)
+S3-SET08	S3	LEGACY-OVERHEAD-PRESS-BARBELL	working	2026-04-??	Push	Gym	Overhead Press (Barbell)	2	8	2.5		2.5kg plates
+S3-SET09	S3	LEGACY-OVERHEAD-PRESS-BARBELL	working	2026-04-??	Push	Gym	Overhead Press (Barbell)	3	8	2.5		
+S3-SET10	S3	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	1	15	5		Same as S1
+S3-SET11	S3	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	2	15	4		
+S3-SET12	S3	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-04-??	Push	Gym	Lateral Raises	3	15	4		
+S3-SET13	S3	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	1	12	10		No wrist pain (used straight/V-bar)
+S3-SET14	S3	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	2	12	10		
+S3-SET15	S3	EX-TRICEPS-PRESSDOWN-BAR	working	2026-04-??	Push	Gym	Tricep Pushdowns	3	12	10		
+S3-SET16	S3	EX-ROMAN-CHAIR-LEG-RAISE	skipped	2026-04-??	Push	Gym	Hanging Leg Raises					SKIPPED
+S4-SET01	S4	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	1	8	35		35kg assistance
+S4-SET02	S4	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	2	5	30		30kg assistance
+S4-SET03	S4	LEGACY-ASSISTED-PULL-UPS	drop_set	2026-04-??	Pull	Gym	Assisted Pull-ups	3	4	25		Drop set: 4 reps at 25kg (harder)...
+S4-SET04	S4	LEGACY-ASSISTED-PULL-UPS	drop_set_continuation	2026-04-??	Pull	Gym	Assisted Pull-ups	3b	2	30		...added assistance back to 30kg for 2 more
+S4-SET05	S4	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	1	12	35		
+S4-SET06	S4	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	2	8	40		
+S4-SET07	S4	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	3	6	40		
+S4-SET08	S4	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	1	12	25		Better form vs last session
+S4-SET09	S4	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	2	12	25		
+S4-SET10	S4	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	3	10	25		
+S4-SET11	S4	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	1	12	5		High pulley crossover
+S4-SET12	S4	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	2	12	5		
+S4-SET13	S4	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	3	10	5		
+S4-SET14	S4	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	1	12	5		5kg per side
+S4-SET15	S4	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	2	8	5		
+S4-SET16	S4	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	3	8	5		
+S4-SET17	S4	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	1	failure	10		To failure
+S4-SET18	S4	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	2	failure	8		To failure
+S4-SET19	S4	LEGACY-ABS-CABLE-CRUNCHES	skipped	2026-04-??	Pull	Gym	Abs: Cable Crunches					SKIPPED
+S5-SET01	S5	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	1	8	35		
+S5-SET02	S5	LEGACY-ASSISTED-PULL-UPS	working	2026-04-??	Pull	Gym	Assisted Pull-ups	2	5	30		5 clean + 1 grind rep (form broke)
+S5-SET03	S5	LEGACY-ASSISTED-PULL-UPS	drop_set_continuation	2026-04-??	Pull	Gym	Assisted Pull-ups	2b	1	30		Grind rep - poor form, not counted
+S5-SET04	S5	LEGACY-ASSISTED-PULL-UPS	drop_set	2026-04-??	Pull	Gym	Assisted Pull-ups	3	3	25		Drop set
+S5-SET05	S5	LEGACY-ASSISTED-PULL-UPS	drop_set_continuation	2026-04-??	Pull	Gym	Assisted Pull-ups	3b	5	35		Drop set continuation; massively better lat activation this session
+S5-SET06	S5	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	1	12	35		
+S5-SET07	S5	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	2	10	40		PR +2 reps vs S4
+S5-SET08	S5	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-04-??	Pull	Gym	Lat Pulldown	3	8	40		PR +2 reps vs S4
+S5-SET09	S5	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	1	12	25		
+S5-SET10	S5	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-04-??	Pull	Gym	Seated Cable Rows	2	12	25		
+S5-SET11	S5	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	extended_set	2026-04-??	Pull	Gym	Seated Cable Rows	3	6	25		Drop-up
+S5-SET12	S5	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	drop_set_continuation	2026-04-??	Pull	Gym	Seated Cable Rows	3b	6	30		Increased to 30kg for final 6 reps
+S5-SET13	S5	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	1	15	5		Beat S4 (was 12)
+S5-SET14	S5	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	2	15	5		Beat S4 (was 12)
+S5-SET15	S5	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-04-??	Pull	Gym	Cable Rear Delt Flyes	3	12	5		
+S5-SET16	S5	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	1	12	5		5kg per side
+S5-SET17	S5	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	2	10	5		
+S5-SET18	S5	EX-EZ-BAR-CABLE-CURL	working	2026-04-??	Pull	Gym	EZ-Bar Curls	3	6	5		Drop vs S4 (was 8) - better compound form = more bicep fatigue
+S5-SET19	S5	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	1	12	8		All 3 sets at 8kg vs 7/8/8 in S2
+S5-SET20	S5	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	2	10	8		
+S5-SET21	S5	EX-CABLE-ROPE-HAMMER-CURL	working	2026-04-??	Pull	Gym	Hammer Curls	3	8	8		
+S5-SET22	S5	LEGACY-ABS-CABLE-CRUNCHES	skipped	2026-04-??	Pull	Gym	Abs: Cable Crunches					SKIPPED
+S6-SET01	S6	EX-BARBELL-BENCH-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Barbell Bench Press	1	10	12.5	6.5	3-4 reps remaining; warm-ups completed as prescribed.
+S6-SET02	S6	EX-BARBELL-BENCH-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Barbell Bench Press	2	10	12.5	7.5	2-3 reps remaining.
+S6-SET03	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Machine Shoulder Press	1	9	12.5	7.5	Warm-ups: 5kg x10; 7.5kg x6.
+S6-SET04	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Machine Shoulder Press	2	9	12.5	8.5	
+S6-SET05	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	1	8	5	2	Below target reps/RPE; 2.5kg felt too easy.
+S6-SET06	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	2	8	5	2	Below target reps/RPE; next time aim 10-12 strict reps at 5kg before increasing.

@@ -102,3 +102,15 @@ S6-SET03	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus
 S6-SET04	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Machine Shoulder Press	2	9	12.5	8.5	
 S6-SET05	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	1	8	5	2	Below target reps/RPE; 2.5kg felt too easy.
 S6-SET06	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	2	8	5	2	Below target reps/RPE; next time aim 10-12 strict reps at 5kg before increasing.
+S7-SET01	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-22	Upper (Strength Focus)	Gym	45° Incline DB Press	1	10	12	~6-7	Substitution for 45° Incline Barbell Press; warm-ups completed; user reported prescribed RPE followed. Above 6-8 target, so 12kg was likely light.
+S7-SET02	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-22	Upper (Strength Focus)	Gym	45° Incline DB Press	2	8	14	~7-8	Substitution for 45° Incline Barbell Press; user reported prescribed RPE followed. This set was closer to the 6-8 target.
+S7-SET03	S7	EX-PEC-DECK	working	2026-05-22	Upper (Strength Focus)	Gym	Pec Deck	1	10	5	~7-8	Substitution for Cable Crossover Ladder; warm-ups completed; user reported prescribed RPE followed.
+S7-SET04	S7	EX-PEC-DECK	working	2026-05-22	Upper (Strength Focus)	Gym	Pec Deck	2	9	10	~8-9	Substitution for Cable Crossover Ladder; user reported prescribed RPE followed.
+S7-SET05	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-22	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	1	8	40	~6-7	Assisted pull-up machine; weight_kg = assistance kg; warm-ups completed; user reported prescribed RPE followed.
+S7-SET06	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-22	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	2	8	35	~7-8	Assisted pull-up machine; weight_kg = assistance kg; user reported prescribed RPE followed.
+S7-SET07	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-22	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	1	7	7.5	~7-8	Warm-ups completed; user reported prescribed RPE followed. Below 8-10 target; 7.5kg was slightly too heavy today.
+S7-SET08	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-22	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	2	6	7.5	~8-9	User reported prescribed RPE followed. Below 8-10 target; consider 5-6.5kg next time for strict target reps.
+S7-SET09	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-22	Upper (Strength Focus)	Gym	Single-Arm DB Row	1	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
+S7-SET10	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-22	Upper (Strength Focus)	Gym	Single-Arm DB Row	2	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
+S7-SET11	S7	EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR	skipped	2026-05-22	Upper (Strength Focus)	Gym	Overhead Cable Triceps Extension (Bar)					Skipped due to time.
+S7-SET12	S7	EX-BAYESIAN-CABLE-CURL	skipped	2026-05-22	Upper (Strength Focus)	Gym	Bayesian Cable Curl					Skipped due to time.

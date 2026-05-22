@@ -1,17 +1,17 @@
-﻿Date	Day	Day Tag	Morning Weight (kg)	Eating Quality	Protein Shake Taken?	Fruit/Veg Servings	Water (L)	Sleep (h)	Energy 1-10	Stress 1-10	Supplements Taken?	Skin Care Done?	Daily Notes	Exercise Done	Exercise Type	Logged?	7-Day Avg Weight	Eating Score	7-Day Eating Score
+Date	Day	Day Tag	Morning Weight (kg)	Eating Quality	Protein Shake Taken?	Fruit/Veg Servings	Water (L)	Sleep (h)	Energy 1-10	Stress 1-10	Supplements Taken?	Skin Care Done?	Daily Notes	Exercise Done	Exercise Type	Logged?	7-Day Avg Weight	Eating Score	7-Day Eating Score
 2026-05-16	Sat													False					
 2026-05-17	Sun													False					
 2026-05-18	Mon	Training		Great	Yes	0	1.6	6.33	3	5	Yes	Yes	Eating really good: full khoresht gheyme lunch, pizza dinner, protein shake, peanut butter sandwich. Protein target met. No fruit/veg. Water: 4 big glasses (~1.6 L estimate). Energy tired; stress normal. Supplements and skin care done.	True	EX-BARBELL-BENCH-PRESS;EX-MACHINE-SHOULDER-PRESS;EX-HIGH-CABLE-LATERAL-RAISE	Yes		5	5
 2026-05-19	Tue	Rest		Poor	No	0	1.2	6.83	3	7	No	No	Rest day. Eating not good: ate ~80% of lunch; no dinner, protein shake, or peanut butter sandwich. No fruit/veg. Water: 3 big glasses (~1.2 L estimate). Energy tired; stress higher. Supplements and skin care not done.	False		Yes		2	3.5
 2026-05-20	Wed	Rest		Okay	No	2	0.4	9.92	10	8	Yes	Yes	Rest day; football canceled. Sleep 23:00-08:55 (~9.92h). Food: 1 pizza, fesenjoon with rice for dinner with salad, peanut butter sandwich, banana, strawberries. User rated eating 3/5. Water: 1 glass (~0.4 L estimate). Energy high from good sleep; stress high due to interview. Supplements and skin care done.	False		Yes		3	3.33
-2026-05-21	Thu		76.30											False		Yes	76.30		3.33
-2026-05-22	Fri													False			76.30		3.33
-2026-05-23	Sat													False			76.30		3.33
-2026-05-24	Sun													False			76.30		3.33
-2026-05-25	Mon													False			76.30		2.5
-2026-05-26	Tue													False			76.30		3
-2026-05-27	Wed													False			76.30		
-2026-05-28	Thu													False					
+2026-05-21	Thu	Training	76.30	Great	Yes	4	1.0	6.50	8	8	Yes	Yes	Max eating day: breakfast full peanut butter sandwich with banana and strawberries plus coffee; lunch full meal of rice, fesenjoon, salad, and protein shake; dinner kale gonjeshki with rice and salad. Fruit/veg: banana, strawberries, and salads. Water: 2.5 glasses (~1.0 L estimate). Sleep 01:00-07:30 (~6.50h). Energy 8; stress 8. Supplements and skin care done. Gym training day; workout details not provided yet for session/set logging.	True		Yes	76.30	5	3.75
+2026-05-22	Fri		76.80											True	EX-45-DEG-INCLINE-DB-PRESS;EX-PEC-DECK;EX-WIDE-GRIP-PULL-UP;EX-HIGH-CABLE-LATERAL-RAISE;EX-PENDLAY-DEFICIT-ROW	Yes	76.55		3.33
+2026-05-23	Sat													False			76.55		3.33
+2026-05-24	Sun													False			76.55		3.33
+2026-05-25	Mon													False			76.55		2.5
+2026-05-26	Tue													False			76.55		3
+2026-05-27	Wed													False			76.55		
+2026-05-28	Thu													False			76.80		
 2026-05-29	Fri													False					
 2026-05-30	Sat													False					
 2026-05-31	Sun													False					

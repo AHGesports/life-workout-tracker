@@ -102,15 +102,29 @@ S6-SET03	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus
 S6-SET04	S6	EX-MACHINE-SHOULDER-PRESS	working	2026-05-18	Push (Hypertrophy Focus)	Gym	Machine Shoulder Press	2	9	12.5	8.5	
 S6-SET05	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	1	8	5	2	Below target reps/RPE; 2.5kg felt too easy.
 S6-SET06	S6	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-18	Push (Hypertrophy Focus)	Gym	High-Cable Lateral Raise	2	8	5	2	Below target reps/RPE; next time aim 10-12 strict reps at 5kg before increasing.
-S7-SET01	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-22	Upper (Strength Focus)	Gym	45° Incline DB Press	1	10	12	~6-7	Substitution for 45° Incline Barbell Press; warm-ups completed; user reported prescribed RPE followed. Above 6-8 target, so 12kg was likely light.
-S7-SET02	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-22	Upper (Strength Focus)	Gym	45° Incline DB Press	2	8	14	~7-8	Substitution for 45° Incline Barbell Press; user reported prescribed RPE followed. This set was closer to the 6-8 target.
-S7-SET03	S7	EX-PEC-DECK	working	2026-05-22	Upper (Strength Focus)	Gym	Pec Deck	1	10	5	~7-8	Substitution for Cable Crossover Ladder; warm-ups completed; user reported prescribed RPE followed.
-S7-SET04	S7	EX-PEC-DECK	working	2026-05-22	Upper (Strength Focus)	Gym	Pec Deck	2	9	10	~8-9	Substitution for Cable Crossover Ladder; user reported prescribed RPE followed.
-S7-SET05	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-22	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	1	8	40	~6-7	Assisted pull-up machine; weight_kg = assistance kg; warm-ups completed; user reported prescribed RPE followed.
-S7-SET06	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-22	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	2	8	35	~7-8	Assisted pull-up machine; weight_kg = assistance kg; user reported prescribed RPE followed.
-S7-SET07	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-22	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	1	7	7.5	~7-8	Warm-ups completed; user reported prescribed RPE followed. Below 8-10 target; 7.5kg was slightly too heavy today.
-S7-SET08	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-22	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	2	6	7.5	~8-9	User reported prescribed RPE followed. Below 8-10 target; consider 5-6.5kg next time for strict target reps.
-S7-SET09	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-22	Upper (Strength Focus)	Gym	Single-Arm DB Row	1	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
-S7-SET10	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-22	Upper (Strength Focus)	Gym	Single-Arm DB Row	2	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
-S7-SET11	S7	EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR	skipped	2026-05-22	Upper (Strength Focus)	Gym	Overhead Cable Triceps Extension (Bar)					Skipped due to time.
-S7-SET12	S7	EX-BAYESIAN-CABLE-CURL	skipped	2026-05-22	Upper (Strength Focus)	Gym	Bayesian Cable Curl					Skipped due to time.
+S7-SET01	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-21	Upper (Strength Focus)	Gym	45° Incline DB Press	1	10	12	~6-7	Substitution for 45° Incline Barbell Press; warm-ups completed; user reported prescribed RPE followed. Above 6-8 target, so 12kg was likely light.
+S7-SET02	S7	EX-45-DEG-INCLINE-DB-PRESS	working	2026-05-21	Upper (Strength Focus)	Gym	45° Incline DB Press	2	8	14	~7-8	Substitution for 45° Incline Barbell Press; user reported prescribed RPE followed. This set was closer to the 6-8 target.
+S7-SET03	S7	EX-PEC-DECK	working	2026-05-21	Upper (Strength Focus)	Gym	Pec Deck	1	10	5	~7-8	Substitution for Cable Crossover Ladder; warm-ups completed; user reported prescribed RPE followed.
+S7-SET04	S7	EX-PEC-DECK	working	2026-05-21	Upper (Strength Focus)	Gym	Pec Deck	2	9	10	~8-9	Substitution for Cable Crossover Ladder; user reported prescribed RPE followed.
+S7-SET05	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-21	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	1	8	40	~6-7	Assisted pull-up machine; weight_kg = assistance kg; warm-ups completed; user reported prescribed RPE followed.
+S7-SET06	S7	EX-WIDE-GRIP-PULL-UP	working	2026-05-21	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	2	8	35	~7-8	Assisted pull-up machine; weight_kg = assistance kg; user reported prescribed RPE followed.
+S7-SET07	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-21	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	1	7	7.5	~7-8	Warm-ups completed; user reported prescribed RPE followed. Below 8-10 target; 7.5kg was slightly too heavy today.
+S7-SET08	S7	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-21	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	2	6	7.5	~8-9	User reported prescribed RPE followed. Below 8-10 target; consider 5-6.5kg next time for strict target reps.
+S7-SET09	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-21	Upper (Strength Focus)	Gym	Single-Arm DB Row	1	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
+S7-SET10	S7	EX-PENDLAY-DEFICIT-ROW	working	2026-05-21	Upper (Strength Focus)	Gym	Single-Arm DB Row	2	12	8		Substitution option 2 for Pendlay Deficit Row; technique/practice set, not a target-load attempt.
+S7-SET11	S7	EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR	skipped	2026-05-21	Upper (Strength Focus)	Gym	Overhead Cable Triceps Extension (Bar)					Skipped due to time.
+S7-SET12	S7	EX-BAYESIAN-CABLE-CURL	skipped	2026-05-21	Upper (Strength Focus)	Gym	Bayesian Cable Curl					Skipped due to time.
+S8-SET01	S8	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Lat Pulldown	1a	4	40	8	First part of mixed first working set; full set total was 9 reps at RPE 8 including 5 reps at 45kg.
+S8-SET02	S8	EX-NEUTRAL-GRIP-LAT-PULLDOWN	extended_set	2026-05-22	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Lat Pulldown	1b	5	45	8	Second part of mixed first working set; total set: 4 reps at 40kg + 5 reps at 45kg.
+S8-SET03	S8	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Lat Pulldown	2	10	45	8	Clean second working set; within 8-10 target and target RPE.
+S8-SET04	S8	EX-CHEST-SUPPORTED-MACHINE-ROW	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Chest-Supported Machine Row	1	10	30	6	User corrected earlier typo: this was RPE 6.
+S8-SET05	S8	EX-CHEST-SUPPORTED-MACHINE-ROW	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Chest-Supported Machine Row	2	8	40	8	User corrected earlier typo: this was RPE 8.
+S8-SET06	S8	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Seated Cable Row	1	8	35	7	Below 10-12 target reps; user described normal-hard.
+S8-SET07	S8	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Seated Cable Row	2	9	35	8	Below 10-12 target reps; keep 35kg next time until 10+ reps are reached.
+S8-SET08	S8	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	1-Arm 45° Cable Rear Delt Flye	1	8	5	10	Taken to failure. User suspected form/setup changed wrongly this time.
+S8-SET09	S8	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	1-Arm 45° Cable Rear Delt Flye	2	8	5	10	Taken to failure. User suspected form/setup changed wrongly this time.
+S8-SET10	S8	EX-EZ-BAR-CABLE-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Cable Curl	1	12	5	10	5kg each side; taken to failure.
+S8-SET11	S8	EX-EZ-BAR-CABLE-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Cable Curl	2	8	5	10	5kg each side; taken to failure.
+S8-SET12	S8	EX-MACHINE-PREACHER-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Preacher Curl	1	12	1.25		Substitution option 1 for Machine Preacher Curl. Added 1.25kg each side; best match for 12-15 target. RPE not reported.
+S8-SET13	S8	EX-MACHINE-PREACHER-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Preacher Curl	2	6	2.5		Extra heavier set after target set; added 2.5kg each side and fell below target reps. RPE not reported.
+S8-SET14	S8	EX-MACHINE-SHRUG	skipped	2026-05-22	Pull (Hypertrophy Focus)	Gym	Machine Shrug					Skipped; user preferred biceps first and then skipped shrug at end.

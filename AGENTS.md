@@ -194,15 +194,13 @@ When the user asks to log a day, ask for these fields unless already provided:
 
 `Morning Weight (kg)`, `Eating Quality`, `Protein Shake Taken?`, `Fruit/Veg Servings`, `Water (L)`, `Sleep (h)`, `Energy 1-10`, `Stress 1-10`, `Supplements Taken?`, `Skin Care Done?`, `Daily Notes`, `Exercise Done`, `Exercise Type`.
 
-If the user provides only a partial daily log, still update the fields they gave, but explicitly remind them which important fields are still missing before ending the response. At minimum, check and mention missing values for sleep, exercise/training status, bodyweight, eating quality, protein shake, fruit/veg, water, energy, stress, supplements, and skin care. Do not silently leave these blank unless the user already declined to provide them or they are clearly not relevant.
-
 When the user provides sleep, nutrition, recovery, football, bodyweight, or habits:
 
 - Read the relevant current rows first.
 - Update the correct `health_log.tsv` date row.
 - Use fixed dates, not volatile formulas.
 - Preserve unknown values as blanks.
-- Ask for missing essentials when they affect correctness, and otherwise give a concise missing-fields reminder after logging.
+- Ask for missing essentials only when necessary.
 
 ## Communication style
 

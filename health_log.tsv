@@ -8,9 +8,9 @@ Date	Day	Day Tag	Morning Weight (kg)	Eating Quality	Protein Shake Taken?	Fruit/V
 2026-05-24	Sun	Football	76.55	Okay	No	2	0.8	7	7	3	Yes	Yes	Banana and strawberries logged for fruit. Football session logged; details not provided yet.	True		Yes	76.57	3	3.14
 2026-05-25	Mon	Rest	76.25	Okay	No	0	0.8	7	7	3	No	No	Rest day based on session log: no session recorded.	False		Yes	76.52	3	2.86
 2026-05-26	Tue	Rest	76.15	Okay	No	2	0.8	7	7	3	Yes	Yes	Banana and strawberries logged for fruit. Rest day based on session log: no session recorded.	False		Yes	76.46	3	3
-2026-05-27	Wed		75.75											False			76.39		
-2026-05-28	Thu													False					
-2026-05-29	Fri													False					
+2026-05-27	Wed	Training	75.75	Great	No	0	2.0	6	5	7	No	Yes	Eating really good with a lot of calories. No fruit/veg. Upper gym session reported; session/set details pending.	True		Yes	76.39	5	3.29
+2026-05-28	Thu	Rest	76.55	Poor	No	0	1.0	5	1	9	No	No	Rest day. Eating really bad. No fruit/veg.	False		Yes	76.42	2	3.14
+2026-05-29	Fri		75.55											False			76.32		
 2026-05-30	Sat													False					
 2026-05-31	Sun													False					
 2026-06-01	Mon													False					

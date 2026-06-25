@@ -8,29 +8,29 @@ Date	Day	Day Tag	Morning Weight (kg)	Eating Quality	Protein Shake Taken?	Fruit/V
 2026-05-24	Sun	Football	76.55	Okay	No	2	0.8	7	7	3	Yes	Yes	Banana and strawberries logged for fruit. Football session logged; details not provided yet.	True		Yes	76.57	3	3.14
 2026-05-25	Mon	Rest	76.25	Okay	No	0	0.8	7	7	3	No	No	Rest day based on session log: no session recorded.	False		Yes	76.52	3	2.86
 2026-05-26	Tue	Rest	76.15	Okay	No	2	0.8	7	7	3	Yes	Yes	Banana and strawberries logged for fruit. Rest day based on session log: no session recorded.	False		Yes	76.46	3	3
-2026-05-27	Wed	Training	75.75	Great	No	0	2.0	6	5	7	No	Yes	Eating really good with a lot of calories. No fruit/veg. Upper gym session reported; session/set details pending.	True		Yes	76.39	5	3.29
+2026-05-27	Wed	Training	75.75	Great	No	0	2.0	6	5	7	No	Yes	Eating really good with a lot of calories. No fruit/veg. Upper gym session reported; session/set details pending.	True	EX-45-DEG-INCLINE-BARBELL-PRESS;EX-CABLE-CROSSOVER-LADDER;EX-WIDE-GRIP-PULL-UP;EX-HIGH-CABLE-LATERAL-RAISE;EX-PENDLAY-DEFICIT-ROW;EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR;EX-BAYESIAN-CABLE-CURL	Yes	76.39	5	3.29
 2026-05-28	Thu	Rest	76.55	Poor	No	0	1.0	5	1	9	No	No	Rest day. Eating really bad. No fruit/veg.	False		Yes	76.42	2	3.14
 2026-05-29	Fri		75.55											False			76.32		
-2026-05-30	Sat													False					
-2026-05-31	Sun													False					
-2026-06-01	Mon													False					
-2026-06-02	Tue													False					
-2026-06-03	Wed													False					
-2026-06-04	Thu													False					
-2026-06-05	Fri													False					
-2026-06-06	Sat													False					
-2026-06-07	Sun													False					
-2026-06-08	Mon													False					
-2026-06-09	Tue													False					
-2026-06-10	Wed													False					
-2026-06-11	Thu													False					
-2026-06-12	Fri													False					
-2026-06-13	Sat													False					
+2026-05-30	Sat	Rest	75.25	Good	No	0	2.0	9	5	3	Yes	No		False		Yes	76.01	4	3.33
+2026-05-31	Sun	Training	75.40	Okay	Yes	0	2.0	9	9		Yes	Yes		True	EX-NEUTRAL-GRIP-LAT-PULLDOWN;EX-CHEST-SUPPORTED-MACHINE-ROW;EX-NEUTRAL-GRIP-SEATED-CABLE-ROW;EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE;EX-MACHINE-SHRUG;EX-EZ-BAR-CABLE-CURL;EX-MACHINE-PREACHER-CURL	Yes	75.84	3	3.33
+2026-06-01	Mon	Vacation	75.40										Vacation	False		Yes	75.72		
+2026-06-02	Tue	Vacation	75.80										Vacation	False		Yes	75.67		
+2026-06-03	Wed	Vacation	76.35										Vacation	False		Yes	75.76		
+2026-06-04	Thu	Vacation											Vacation	False		Yes			
+2026-06-05	Fri	Vacation											Vacation	False		Yes			
+2026-06-06	Sat	Vacation											Vacation	False		Yes			
+2026-06-07	Sun	Vacation											Vacation	False		Yes			
+2026-06-08	Mon	Vacation											Vacation	False		Yes			
+2026-06-09	Tue	Vacation											Vacation	False		Yes			
+2026-06-10	Wed	Vacation											Vacation	False		Yes			
+2026-06-11	Thu	Rest	75.25	Good	No	2	2.0	9	8	7	Yes	No		False		Yes	75.25	4	4.00
+2026-06-12	Fri		75.85											False					
+2026-06-13	Sat	Training												True	EX-45-DEG-INCLINE-DB-PRESS;EX-PEC-DECK;EX-WIDE-GRIP-PULL-UP;EX-HIGH-CABLE-LATERAL-RAISE;EX-CABLE-ROPE-HAMMER-CURL;LEGACY-BICEP-CURL	Yes			
 2026-06-14	Sun													False					
 2026-06-15	Mon													False					
 2026-06-16	Tue													False					
 2026-06-17	Wed													False					
-2026-06-18	Thu													False					
+2026-06-18	Thu		75.50											False		Yes	75.68		
 2026-06-19	Fri													False					
 2026-06-20	Sat													False					
 2026-06-21	Sun													False					

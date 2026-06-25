@@ -128,3 +128,48 @@ S8-SET11	S8	EX-EZ-BAR-CABLE-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym
 S8-SET12	S8	EX-MACHINE-PREACHER-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Preacher Curl	1	12	1.25		Substitution option 1 for Machine Preacher Curl. Added 1.25kg each side; best match for 12-15 target. RPE not reported.
 S8-SET13	S8	EX-MACHINE-PREACHER-CURL	working	2026-05-22	Pull (Hypertrophy Focus)	Gym	EZ-Bar Preacher Curl	2	6	2.5		Extra heavier set after target set; added 2.5kg each side and fell below target reps. RPE not reported.
 S8-SET14	S8	EX-MACHINE-SHRUG	skipped	2026-05-22	Pull (Hypertrophy Focus)	Gym	Machine Shrug					Skipped; user preferred biceps first and then skipped shrug at end.
+S10-SET01	S10	EX-45-DEG-INCLINE-BARBELL-PRESS	working	2026-05-27	Upper (Strength Focus)	Gym	45° Incline DB Press	1	8	14	6	Substitution for 45° Incline Barbell Press. Warm-ups completed but not logged.
+S10-SET02	S10	EX-45-DEG-INCLINE-BARBELL-PRESS	working	2026-05-27	Upper (Strength Focus)	Gym	45° Incline DB Press	2	8	16	8	Substitution for 45° Incline Barbell Press.
+S10-SET03	S10	EX-45-DEG-INCLINE-BARBELL-PRESS	working	2026-05-27	Upper (Strength Focus)	Gym	45° Incline DB Press	3	8	16	9	Substitution for 45° Incline Barbell Press. Last set did not reach prescribed RPE 10/failure.
+S10-SET04	S10	EX-CABLE-CROSSOVER-LADDER	working	2026-05-27	Upper (Strength Focus)	Gym	Pec Deck	1	10	10	10	Substitution for Cable Crossover Ladder. User also did 10x5kg and 5x10kg ramp/warm-up work; not logged as working sets. Failure felt in shoulders more than chest.
+S10-SET05	S10	EX-WIDE-GRIP-PULL-UP	working	2026-05-27	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	1	10	35	9	Weight is assistance kg.
+S10-SET06	S10	EX-WIDE-GRIP-PULL-UP	working	2026-05-27	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	2	10	35	9	Weight is assistance kg.
+S10-SET07	S10	EX-WIDE-GRIP-PULL-UP	working	2026-05-27	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	3	8	35	10	Weight is assistance kg. Last set taken to failure.
+S10-SET08	S10	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-27	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	1	10	5	8	
+S10-SET09	S10	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-05-27	Upper (Strength Focus)	Gym	High-Cable Lateral Raise - Right Arm	2	7	7.5	10	Right hand only; taken to failure.
+S10-SET10	S10	EX-HIGH-CABLE-LATERAL-RAISE	drop_set	2026-05-27	Upper (Strength Focus)	Gym	High-Cable Lateral Raise - Left Arm	2	5	7.5	10	Left hand only; taken to failure, then continued with 5kg drop set.
+S10-SET11	S10	EX-HIGH-CABLE-LATERAL-RAISE	drop_set_continuation	2026-05-27	Upper (Strength Focus)	Gym	High-Cable Lateral Raise - Left Arm Drop Set	2	5	5	10	Continuation after 7.5kg left-arm failure.
+S10-SET12	S10	EX-PENDLAY-DEFICIT-ROW	skipped	2026-05-27	Upper (Strength Focus)	Gym	Pendlay Deficit Row					Skipped.
+S10-SET13	S10	EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR	skipped	2026-05-27	Upper (Strength Focus)	Gym	Overhead Cable Triceps Extension (Bar)					Not reported; treat as skipped/pending unless user later provides details.
+S10-SET14	S10	EX-BAYESIAN-CABLE-CURL	skipped	2026-05-27	Upper (Strength Focus)	Gym	Incline DB Stretch Curl					Substituted for Bayesian Cable Curl, but user did not remember weights/reps and asked to skip for now/tell later.
+S11-SET01	S11	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Lat Pulldown	1	12	45	9	Went above 8-10 target; consider trying 50kg next time if form was clean.
+S11-SET02	S11	EX-NEUTRAL-GRIP-LAT-PULLDOWN	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Lat Pulldown	2	8	45	9	
+S11-SET03	S11	EX-CHEST-SUPPORTED-MACHINE-ROW	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Single-Arm Chest-Supported Row Machine	1	12	20	8	Substitution/available machine variation. Weight is per hand/side. Used upper-back handle.
+S11-SET04	S11	EX-CHEST-SUPPORTED-MACHINE-ROW	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Single-Arm Chest-Supported Row Machine	2	12	20	8	Weight is per hand/side. Used upper-back handle.
+S11-SET05	S11	EX-CHEST-SUPPORTED-MACHINE-ROW	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Single-Arm Chest-Supported Row Machine	3	10	20	9	Weight is per hand/side. Used upper-back handle.
+S11-SET06	S11	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Seated Cable Row	1	8	35		Wrists/grip gave out before back; not true back failure. RPE not provided.
+S11-SET07	S11	EX-NEUTRAL-GRIP-SEATED-CABLE-ROW	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	Neutral-Grip Seated Cable Row	2	10	35		Wrists/grip gave out before back; not true back failure. RPE not provided.
+S11-SET08	S11	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	1-Arm 45° Cable Rear Delt Flye	1	12	5	8	
+S11-SET09	S11	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	1-Arm 45° Cable Rear Delt Flye	2	7	7.5	10	Taken to failure, followed by myo-rep/drop mini-set at 5kg.
+S11-SET10	S11	EX-1-ARM-45-DEG-CABLE-REAR-DELT-FLYE	drop_set_continuation	2026-05-31	Pull (Hypertrophy Focus)	Gym	1-Arm 45° Cable Rear Delt Flye Myo/Drop Mini-Set	2	5	5	10	Myo-rep/drop continuation after 7.5kg failure.
+S11-SET11	S11	EX-MACHINE-SHRUG	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	DB Shrug	1	12	18	7	Substitution option for Machine Shrug. Weight is per dumbbell. Wrist/grip-limited; no straps.
+S11-SET12	S11	EX-MACHINE-SHRUG	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	DB Shrug	2	8	8	7	Substitution option for Machine Shrug. Weight is per dumbbell. Wrist/grip-limited; no straps.
+S11-SET13	S11	EX-EZ-BAR-CABLE-CURL	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	EZ-Bar Cable Curl	1	15	5	8	Above 10-12 target.
+S11-SET14	S11	EX-EZ-BAR-CABLE-CURL	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	EZ-Bar Cable Curl	2	12	6.5	10	Taken to failure.
+S11-SET15	S11	EX-MACHINE-PREACHER-CURL	working	2026-05-31	Pull (Hypertrophy Focus)	Gym	EZ-Bar Machine Stretch Preacher Curl	1	12	5	7	2.5kg each side, 5kg total added. Too easy for prescribed RPE 10/failure; no myo-reps reported.
+S13-SET01	S13	EX-45-DEG-INCLINE-DB-PRESS	working	2026-06-13	Upper (Strength Focus)	Gym	45° Incline DB Press	1	8	16	7-8	Substitution for 45° Incline Barbell Press; user reported better form.
+S13-SET02	S13	EX-45-DEG-INCLINE-DB-PRESS	working	2026-06-13	Upper (Strength Focus)	Gym	45° Incline DB Press	2	8	16	7-8	Substitution for 45° Incline Barbell Press; user reported better form.
+S13-SET03	S13	EX-45-DEG-INCLINE-DB-PRESS	working	2026-06-13	Upper (Strength Focus)	Gym	45° Incline DB Press	3	5	16	7-8	Substitution for 45° Incline Barbell Press; user reported better form.
+S13-SET04	S13	EX-PEC-DECK	working	2026-06-13	Upper (Strength Focus)	Gym	Technogym Pectoral / Pec Deck	1	12	10		Substitution for Cable Crossover Ladder; chest-shoulder tie-in/front shoulder region was the limiting factor.
+S13-SET05	S13	EX-PEC-DECK	working	2026-06-13	Upper (Strength Focus)	Gym	Technogym Pectoral / Pec Deck	2	12	10		Substitution for Cable Crossover Ladder; chest-shoulder tie-in/front shoulder region was the limiting factor.
+S13-SET06	S13	EX-WIDE-GRIP-PULL-UP	working	2026-06-13	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	1	8	35	8-9	Weight is assistance kg; warm-ups completed.
+S13-SET07	S13	EX-WIDE-GRIP-PULL-UP	working	2026-06-13	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	2	11	35	8-9	Weight is assistance kg.
+S13-SET08	S13	EX-WIDE-GRIP-PULL-UP	working	2026-06-13	Upper (Strength Focus)	Gym	Wide-Grip Assisted Pull-Up	3	7	35	10	Weight is assistance kg; user reported prescribed RPE.
+S13-SET09	S13	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-06-13	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	1	12	5	8	
+S13-SET10	S13	EX-HIGH-CABLE-LATERAL-RAISE	working	2026-06-13	Upper (Strength Focus)	Gym	High-Cable Lateral Raise	2	12	5	8	
+S13-SET11	S13	EX-PENDLAY-DEFICIT-ROW	skipped	2026-06-13	Upper (Strength Focus)	Gym	Pendlay Deficit Row					Skipped by choice.
+S13-SET12	S13	EX-OVERHEAD-CABLE-TRICEPS-EXTENSION-BAR	skipped	2026-06-13	Upper (Strength Focus)	Gym	Overhead Cable Triceps Extension (Bar)					Skipped by choice.
+S13-SET13	S13	EX-CABLE-ROPE-HAMMER-CURL	working	2026-06-13	Upper (Strength Focus)	Gym	Hammer Curl	1				Substituted for Bayesian Cable Curl; user did not remember reps, weight, or RPE.
+S13-SET14	S13	EX-CABLE-ROPE-HAMMER-CURL	working	2026-06-13	Upper (Strength Focus)	Gym	Hammer Curl	2				Substituted for Bayesian Cable Curl; user did not remember reps, weight, or RPE.
+S13-SET15	S13	LEGACY-BICEP-CURL	working	2026-06-13	Upper (Strength Focus)	Gym	Bicep Curl	1				Substituted for Bayesian Cable Curl; user did not remember reps, weight, or RPE.
+S13-SET16	S13	LEGACY-BICEP-CURL	working	2026-06-13	Upper (Strength Focus)	Gym	Bicep Curl	2				Substituted for Bayesian Cable Curl; user did not remember reps, weight, or RPE.
